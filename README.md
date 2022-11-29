@@ -5,3 +5,9 @@
 ```
 C:\Users\yehwa\AppData\Roaming\Sublime Text\Packages\User
 ```
+
+### [Git](.gitconfig)
+
+```
+C:\Users\yehwa
+```

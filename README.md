@@ -11,3 +11,9 @@ C:\Users\yehwa\AppData\Roaming\Sublime Text\Packages\User
 ```
 C:\Users\yehwa
 ```
+
+### [Git Bash](.minttyrc)
+
+```
+C:\Users\yehwa
+```

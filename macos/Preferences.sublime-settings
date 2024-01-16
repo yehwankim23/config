@@ -1,0 +1,8 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+    "color_scheme": "Monokai.sublime-color-scheme",
+    "font_face": "JetBrains Mono NL",
+    "font_size": 20,
+    "rulers": [100]
+}

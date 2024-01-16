@@ -1,0 +1,8 @@
+[core]
+    excludesFile = ~/.gitignore
+    editor = "subl -w"
+[init]
+    defaultBranch = main
+[user]
+    name = 김예환 Ye-Hwan Kim (Sam)
+    email = yehwankim23@gmail.com

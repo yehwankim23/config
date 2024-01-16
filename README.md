@@ -37,3 +37,21 @@ Move or import the configuration files
 `Exported-2022-11-30.vssettings`
 
 `Tools` > `Import and Export Settings...` > `Import selected environment settings`
+
+### macOS
+
+#### Git
+
+`.gitconfig` and `.gitignore`
+
+```
+$HOME
+```
+
+#### Sublime Text
+
+`Preferences.sublime-settings`
+
+```
+$HOME/Library/Application\ Support/Sublime\ Text/Packages/User
+```

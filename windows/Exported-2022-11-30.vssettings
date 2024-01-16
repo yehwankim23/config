@@ -1,0 +1,25 @@
+<UserSettings>
+  <ApplicationIdentity version="17.0"/>
+  <ToolsOptions>
+    <ToolsOptionsCategory name="TextEditor" RegisteredName="TextEditor">
+      <ToolsOptionsSubCategory name="C/C++" RegisteredName="C/C++" PackageName="Text Management Package">
+        <PropertyValue name="InsertTabs">false</PropertyValue>
+      </ToolsOptionsSubCategory>
+      <ToolsOptionsSubCategory name="C/C++ Specific" RegisteredName="C/C++ Specific" PackageName="Visual C++ Language Manager Package">
+        <PropertyValue name="AutoFormatOnPaste2">0</PropertyValue>
+        <PropertyValue name="IndentCaseLabels">true</PropertyValue>
+        <PropertyValue name="NewlineNamespaceBrace">2</PropertyValue>
+        <PropertyValue name="NewlineTypeBrace">2</PropertyValue>
+        <PropertyValue name="NewlineFunctionBrace">2</PropertyValue>
+        <PropertyValue name="NewlineControlBlockBrace">2</PropertyValue>
+        <PropertyValue name="NewlineLambdaBrace">2</PropertyValue>
+        <PropertyValue name="NewlineScopeBrace">true</PropertyValue>
+        <PropertyValue name="NewlineEmptyTypeCloseBrace">false</PropertyValue>
+        <PropertyValue name="NewlineEmptyFunctionCloseBrace">false</PropertyValue>
+        <PropertyValue name="NewlineKeywordWhile">true</PropertyValue>
+        <PropertyValue name="SpaceAfterCastParenthesis">true</PropertyValue>
+        <PropertyValue name="PreserveBlock">0</PropertyValue>
+      </ToolsOptionsSubCategory>
+    </ToolsOptionsCategory>
+  </ToolsOptions>
+</UserSettings>

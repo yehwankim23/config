@@ -1,0 +1,8 @@
+[core]
+    excludeFile = C:/Users/yehwa/.gitignore
+    editor = "'C:/Program Files/Sublime Text/subl.exe' -w"
+[init]
+    defaultBranch = main
+[user]
+    name = 김예환 Ye-Hwan Kim (Sam)
+    email = yehwankim23@gmail.com

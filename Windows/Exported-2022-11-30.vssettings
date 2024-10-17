@@ -50,7 +50,7 @@
                 <PropertyValue name="EnableLinter">false</PropertyValue>
                 <PropertyValue name="ReferencesHideInCommentResults">true</PropertyValue>
                 <PropertyValue name="ReferencesHideUnconfirmedResults">true</PropertyValue>
-                <PropertyValue name="SortIncludesErrorTagType">2</PropertyValue>
+                <PropertyValue name="SortIncludesErrorTagType">0</PropertyValue>
                 <PropertyValue name="RefactorScope">2</PropertyValue>
                 <PropertyValue name="RecreateDatabase">false</PropertyValue>
                 <PropertyValue name="MaximumFindReferencesThreads">11</PropertyValue>
@@ -205,7 +205,7 @@
                 <PropertyValue name="RenameSkipPreviewIfConfirmed">false</PropertyValue>
                 <PropertyValue name="EnableIncludeCleanup_Exp1">false</PropertyValue>
                 <PropertyValue name="SkippedRegionErrorTagType">1</PropertyValue>
-                <PropertyValue name="IncludeCleanupSortAfterEdits">true</PropertyValue>
+                <PropertyValue name="IncludeCleanupSortAfterEdits">false</PropertyValue>
                 <PropertyValue name="AlwaysUseFallbackLocation">false</PropertyValue>
                 <PropertyValue name="RescanSolutionInterval">60</PropertyValue>
                 <PropertyValue name="DisableDatabaseAutoUpdates">false</PropertyValue>

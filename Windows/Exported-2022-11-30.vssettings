@@ -48,13 +48,13 @@
                 <PropertyValue name="MemberListFilterPredictive">false</PropertyValue>
                 <PropertyValue name="InlineHintsEnabled_Exp">false</PropertyValue>
                 <PropertyValue name="EnableLinter">false</PropertyValue>
+                <PropertyValue name="DisableHLSLIntelliSense">false</PropertyValue>
                 <PropertyValue name="ReferencesHideInCommentResults">true</PropertyValue>
                 <PropertyValue name="ReferencesHideUnconfirmedResults">true</PropertyValue>
-                <PropertyValue name="SortIncludesErrorTagType">2</PropertyValue>
+                <PropertyValue name="SortIncludesErrorTagType">3</PropertyValue>
                 <PropertyValue name="RefactorScope">2</PropertyValue>
                 <PropertyValue name="RecreateDatabase">false</PropertyValue>
                 <PropertyValue name="MaximumFindReferencesThreads">11</PropertyValue>
-                <PropertyValue name="DisableHLSLIntelliSense">true</PropertyValue>
                 <PropertyValue name="UseTabToInsertSnippet">true</PropertyValue>
                 <PropertyValue name="SpaceBeforeInitListBrace">false</PropertyValue>
                 <PropertyValue name="SpaceWithinCastParentheses">false</PropertyValue>
@@ -100,6 +100,7 @@
                 <PropertyValue name="EnableProjectCaching">false</PropertyValue>
                 <PropertyValue name="InlineHintsShowNonConstRefIndicator">true</PropertyValue>
                 <PropertyValue name="EnableSingleFileISense">true</PropertyValue>
+                <PropertyValue name="ShowChangeSignatureParameters">true</PropertyValue>
                 <PropertyValue name="RenameRenameStrings">false</PropertyValue>
                 <PropertyValue name="DisableInactiveCodeOpacity">false</PropertyValue>
                 <PropertyValue name="DisableDatabaseUpdates">false</PropertyValue>
@@ -121,15 +122,15 @@
                 <PropertyValue name="NewlineControlBlockBrace">1</PropertyValue>
                 <PropertyValue name="IndentNamespaceContents">true</PropertyValue>
                 <PropertyValue name="IndentLambdaBraces">true</PropertyValue>
+                <PropertyValue name="PoirotMaxDegreeOfParallelism">0</PropertyValue>
                 <PropertyValue name="MemberListDotToArrow">false</PropertyValue>
                 <PropertyValue name="IntellisenseOptions">0</PropertyValue>
-                <PropertyValue name="EnablePoirotOutput">true</PropertyValue>
-                <PropertyValue name="PoirotMaxDegreeOfParallelism">2</PropertyValue>
+                <PropertyValue name="EnablePoirotOutput">false</PropertyValue>
                 <PropertyValue name="TaskScopeHideImplicitFile">false</PropertyValue>
                 <PropertyValue name="ReferencesHideFailedResults">false</PropertyValue>
                 <PropertyValue name="SuppressCMakeVcxprojNotificationInfoBar">false</PropertyValue>
                 <PropertyValue name="SortIncludesKeepGroups">true</PropertyValue>
-                <PropertyValue name="SortIncludesPriorityAngleBrackets">2</PropertyValue>
+                <PropertyValue name="SortIncludesPriorityAngleBrackets">1</PropertyValue>
                 <PropertyValue name="CreateDeclDefnErrorTagType">2</PropertyValue>
                 <PropertyValue name="FormatAfterAutoSurround">true</PropertyValue>
                 <PropertyValue name="AutoSurroundMode">0</PropertyValue>
@@ -173,7 +174,7 @@
                 <PropertyValue name="SpaceBeforeControlBlockParenthesis">true</PropertyValue>
                 <PropertyValue name="SpaceBetweenEmptyFunctionParentheses">false</PropertyValue>
                 <PropertyValue name="PreserveParameterIndentation">false</PropertyValue>
-                <PropertyValue name="PoirotCodeAnalysisErrorTagType">2</PropertyValue>
+                <PropertyValue name="PoirotCodeAnalysisErrorTagType">0</PropertyValue>
                 <PropertyValue name="EnableErrorFixSuggestions">true</PropertyValue>
                 <PropertyValue name="MacroToConstexprErrorTagType">1</PropertyValue>
                 <PropertyValue name="SortIncludesPriorityCaseSensitive">true</PropertyValue>
@@ -184,9 +185,9 @@
                 <PropertyValue name="AutoFormatOnPaste2">1</PropertyValue>
                 <PropertyValue name="AutoFormatOnPaste">false</PropertyValue>
                 <PropertyValue name="SuppressUEPluginInfoBar">false</PropertyValue>
-                <PropertyValue name="InlineHintsUseCtrlCtrlShortcut">false</PropertyValue>
-                <PropertyValue name="PoirotAccountUniqueId">0</PropertyValue>
                 <PropertyValue name="SuppressPoirotInfoBar">false</PropertyValue>
+                <PropertyValue name="PoirotAccountUniqueId"/>
+                <PropertyValue name="InlineHintsUseCtrlCtrlShortcut">false</PropertyValue>
                 <PropertyValue name="MakeMemberFunctionConstErrorTagType">1</PropertyValue>
                 <PropertyValue name="EnableSingleFileISenseSquiggles">false</PropertyValue>
                 <PropertyValue name="DisableCreateDeclDefnScan">false</PropertyValue>
@@ -205,7 +206,7 @@
                 <PropertyValue name="RenameSkipPreviewIfConfirmed">false</PropertyValue>
                 <PropertyValue name="EnableIncludeCleanup_Exp1">false</PropertyValue>
                 <PropertyValue name="SkippedRegionErrorTagType">1</PropertyValue>
-                <PropertyValue name="IncludeCleanupSortAfterEdits">true</PropertyValue>
+                <PropertyValue name="IncludeCleanupSortAfterEdits">false</PropertyValue>
                 <PropertyValue name="AlwaysUseFallbackLocation">false</PropertyValue>
                 <PropertyValue name="RescanSolutionInterval">60</PropertyValue>
                 <PropertyValue name="DisableDatabaseAutoUpdates">false</PropertyValue>
@@ -239,8 +240,8 @@
                 <PropertyValue name="AlignParameters">false</PropertyValue>
                 <PropertyValue name="AutoFormatOnBraceCompletion">true</PropertyValue>
                 <PropertyValue name="AutoFormatOnClosingBrace">true</PropertyValue>
+                <PropertyValue name="EnablePoirotCodeAnalysis_1">false</PropertyValue>
                 <PropertyValue name="InlineHintsHideIfParamNameFoundInArg">true</PropertyValue>
-                <PropertyValue name="EnablePoirotCodeAnalysis_1">true</PropertyValue>
                 <PropertyValue name="NamingConventionErrorTagType">1</PropertyValue>
                 <PropertyValue name="GeneratedDocumentationType">1</PropertyValue>
                 <PropertyValue name="ReferencesHideInStringResults">true</PropertyValue>
@@ -255,9 +256,9 @@
                 <PropertyValue name="IndentCaseLabels">true</PropertyValue>
                 <PropertyValue name="ClangFormatExecution">1</PropertyValue>
                 <PropertyValue name="RenameSearchComments">false</PropertyValue>
+                <PropertyValue name="PoirotAccountProviderId"/>
                 <PropertyValue name="EnableSQLiteStoreEngine">false</PropertyValue>
                 <PropertyValue name="InlineHintsRenderHints">false</PropertyValue>
-                <PropertyValue name="PoirotAccountProviderId">False</PropertyValue>
                 <PropertyValue name="LogicalBitwiseMismatchErrorTagType">2</PropertyValue>
                 <PropertyValue name="ReferencesHideDisconfirmedResults">true</PropertyValue>
                 <PropertyValue name="IncludeHintsSuppressBoostTest">false</PropertyValue>
@@ -287,9 +288,9 @@
                 <PropertyValue name="SpaceAfterComma">true</PropertyValue>
                 <PropertyValue name="SpaceBetweenEmptyBraces">false</PropertyValue>
                 <PropertyValue name="IndentGotoLabels">2</PropertyValue>
+                <PropertyValue name="PoirotProcessingPriority">0</PropertyValue>
                 <PropertyValue name="EnableIncludeCleanup">false</PropertyValue>
                 <PropertyValue name="DisableConvertToForLoop">false</PropertyValue>
-                <PropertyValue name="PoirotProcessingPriority">16384</PropertyValue>
                 <PropertyValue name="TaskScopeHideExternalFile">true</PropertyValue>
                 <PropertyValue name="FloatTruncatedErrorTagType">1</PropertyValue>
                 <PropertyValue name="OnlineHelpSearchProvider_1">https://www.bing.com/search?q={0}</PropertyValue>

@@ -15,3 +15,16 @@ Run [`Windows.bat`](Windows.bat)
 ### macOS
 
 Run [`macOS.sh`](macOS.sh)
+
+### Font Sizes
+
+| Program            | Windows |
+| ------------------ | ------- |
+| Command Prompt     | 24      |
+| Git Bash           | 16      |
+| JetBrains          | 21      |
+| Notepad            | 16      |
+| Powershell         | 24      |
+| Sublime Text       | 16      |
+| Visual Studio      | 16      |
+| Visual Studio Code | 21      |

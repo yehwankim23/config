@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Git
 rm "$HOME/.gitconfig"
@@ -10,6 +10,11 @@ ln "macOS/.gitignore" "$HOME/.gitignore"
 mkdir "$HOME/Library/Application Support/Sublime Text/Packages/User"
 rm "$HOME/Library/Application Support/Sublime Text/Packages/User/Preferences.sublime-settings"
 ln "macOS/Preferences.sublime-settings" "$HOME/Library/Application Support/Sublime Text/Packages/User/Preferences.sublime-settings"
+
+# Zed
+mkdir "$HOME/.config/zed/"
+rm "$HOME/.config/zed/settings.json"
+ln "macOS/settings.json" "$HOME/.config/zed/settings.json"
 
 # zsh
 rm "$HOME/.zprofile"

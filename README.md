@@ -21,6 +21,7 @@ Run [`macOS.sh`](macOS.sh)
 | Program            | Windows | macOS |
 | ------------------ | ------- | ----- |
 | Command Prompt     | 24      |       |
+| Ghostty            |         | 21    |
 | Git Bash           | 16      |       |
 | JetBrains          | 21      | 21    |
 | Notepad            | 16      |       |

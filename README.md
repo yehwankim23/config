@@ -21,12 +21,13 @@ Run [`macOS.sh`](macOS.sh)
 | Program            | Windows | macOS |
 | ------------------ | ------- | ----- |
 | Command Prompt     | 24      |       |
+| Ghostty            |         | 21    |
 | Git Bash           | 16      |       |
 | JetBrains          | 21      | 21    |
 | Notepad            | 16      |       |
 | Powershell         | 24      |       |
 | Sublime Text       | 16      | 21    |
 | Terminal           |         | 21    |
-| Visual Studio      | 16      | 16    |
+| Visual Studio      | 16      |       |
 | Visual Studio Code | 21      | 21    |
 | Zed                |         | 21    |

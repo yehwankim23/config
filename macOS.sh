@@ -1,5 +1,10 @@
 #!/usr/bin/env bash
 
+# Ghostty
+mkdir "$HOME/Library/Application Support/com.mitchellh.ghostty"
+rm "$HOME/Library/Application Support/com.mitchellh.ghostty/config"
+ln "macOS/config" "$HOME/Library/Application Support/com.mitchellh.ghostty/config"
+
 # Git
 rm "$HOME/.gitconfig"
 ln "macOS/.gitconfig" "$HOME/.gitconfig"

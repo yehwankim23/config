@@ -11,6 +11,10 @@ ln "macOS/.gitconfig" "$HOME/.gitconfig"
 rm "$HOME/.gitignore"
 ln "macOS/.gitignore" "$HOME/.gitignore"
 
+# Rectangle
+defaults write com.knollsoft.Rectangle almostMaximizeHeight -float 0.85
+defaults write com.knollsoft.Rectangle almostMaximizeWidth -float 0.6
+
 # Sublime Text
 mkdir "$HOME/Library/Application Support/Sublime Text/Packages/User"
 rm "$HOME/Library/Application Support/Sublime Text/Packages/User/Preferences.sublime-settings"
